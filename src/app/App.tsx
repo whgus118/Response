@@ -1,16 +1,18 @@
 import { useState } from "react";
 import svgPaths from "../imports/Desktop/svg-8qy2nilsze";
-import imgHeader from "figma:asset/7bbe69da6574bb3801452225c31f98001676a374.png";
-import img from "figma:asset/357a086318175672038b7d175d80837ef67b20ac.png";
-import img1 from "figma:asset/8adfe08ccfb9fe5356fe71a9822b859407d592c0.png";
-import img2 from "figma:asset/a291ab23e93154687f85b7855ec541fc28036299.png";
-import img3 from "figma:asset/52d656ff4cde401c86d7a67fe091dc6542db2334.png";
-import img4 from "figma:asset/cfa8e532e5cdc07b430b5c8588e8dde2507ac93e.png";
-import img5 from "figma:asset/a976a44d8ab6087caa5352834637ff3be7b65ec3.png";
-import img6 from "figma:asset/208b7b6d07073d939c3f921bb29bd4b5b2eba734.png";
-import img7 from "figma:asset/b451617cb73394a04f62a7ff72df075b7dc4e51c.png";
-import img8 from "figma:asset/183892e16de2452a4a39b1d0d1477eea33808826.png";
-import img9 from "figma:asset/377ac2a9f3285b49b59f350809b52916cd7e26d8.png";
+import {
+  imgHeader,
+  imgCard1 as img,
+  imgCard2 as img1,
+  imgCard3 as img2,
+  imgCard4 as img3,
+  imgCard5 as img4,
+  imgCard6 as img5,
+  imgCard7 as img6,
+  imgCard8 as img7,
+  imgCard9 as img8,
+  imgCtaBg as img9,
+} from "../assets/images";
 
 // ─── Data ───────────────────────────────────────────────────────────────────
 

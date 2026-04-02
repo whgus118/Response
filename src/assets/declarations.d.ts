@@ -1,0 +1,19 @@
+/**
+ * PNG/JPG/WEBP 파일을 ES 모듈로 임포트할 수 있도록 타입 선언
+ */
+declare module "*.png" {
+  const src: string;
+  export default src;
+}
+declare module "*.jpg" {
+  const src: string;
+  export default src;
+}
+declare module "*.jpeg" {
+  const src: string;
+  export default src;
+}
+declare module "*.webp" {
+  const src: string;
+  export default src;
+}
